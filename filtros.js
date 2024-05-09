@@ -78,7 +78,6 @@ const data = [
             alt=""
             />
             <span class="name">${product.name}</span>
-            <span class="priceText">Price: $${product.price}</span>
           </div>
       `
       )
